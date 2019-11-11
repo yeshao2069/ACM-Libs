@@ -8,3 +8,5 @@
 ### 1002_487_3279.c 504K Memory 407Ms Time 1649B Code Length
 ## 1003 Hangover
 ### 1003_hangover.c 124K Memory 0Ms Time 256B Code Length
+## 1004 Financial Management
+### 1004_financial_management.cpp 124K Memory 0Ms Time 236B Code Length
