@@ -6,3 +6,5 @@
 ### 1001_exponentiation.cpp 204K Memory 0Ms Time 4496B Code Length
 ## 1002 487-3279
 ### 1002_487_3279.c 504K Memory 407Ms Time 1649B Code Length
+## 1003 Hangover
+### 1003_hangover.c 124K Memory 0Ms Time 256B Code Length
