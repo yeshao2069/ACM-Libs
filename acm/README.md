@@ -11,4 +11,6 @@
 ## 1004 Financial Management
 ### 1004_financial_management.cpp 124K Memory 0Ms Time 236B Code Length
 ## 1005 I Think I Need a Houseboat
-### 1004_i_think_i_need_a_houseboat.cpp 124K Memory 0Ms Time 696B Code Length
+### 1005_i_think_i_need_a_houseboat.cpp 124K Memory 0Ms Time 696B Code Length
+## 1006 Biorhythms
+### 1006_biorhythms.cpp 96K Memory 47Ms Time 1175B Code Length
