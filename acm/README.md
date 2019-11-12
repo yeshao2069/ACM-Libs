@@ -14,3 +14,5 @@
 ### 1005_i_think_i_need_a_houseboat.cpp 124K Memory 0Ms Time 696B Code Length
 ## 1006 Biorhythms
 ### 1006_biorhythms.cpp 96K Memory 47Ms Time 1175B Code Length
+## 1007 DNA Sorting
+### 1007_DNA_Sorting.cpp 104K Memory 32Ms Time 1488B Code Length
