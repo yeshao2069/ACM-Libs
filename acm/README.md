@@ -18,3 +18,5 @@
 ### 1007_DNA_Sorting.cpp 104K Memory 32Ms Time 1488B Code Length
 ## 1008 Maya Calendar
 ### 1008_maya_calendar.cpp 96K Memory 0Ms Time 1147B Code Length
+## 1009 Edge Detection
+### 1009_edge_detection.cpp 100K Memory 0Ms Time 3942B Code Length
