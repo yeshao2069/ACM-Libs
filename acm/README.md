@@ -16,3 +16,5 @@
 ### 1006_biorhythms.cpp 96K Memory 47Ms Time 1175B Code Length
 ## 1007 DNA Sorting
 ### 1007_DNA_Sorting.cpp 104K Memory 32Ms Time 1488B Code Length
+## 1008 Maya Calendar
+### 1008_maya_calendar.cpp 96K Memory 0Ms Time 1147B Code Length
