@@ -20,3 +20,5 @@
 ### 1008_maya_calendar.cpp 96K Memory 0Ms Time 1147B Code Length
 ## 1009 Edge Detection
 ### 1009_edge_detection.cpp 100K Memory 0Ms Time 3942B Code Length
+## 1010 STAMPS
+### 1010_stamps.cpp 188K Memory 0Ms Time 4013B Code Length
