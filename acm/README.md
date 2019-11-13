@@ -38,3 +38,5 @@
 ### 3922_a_simple_stone_game.cpp 5972K Memory 16Ms Time 649B Code Length
 ## 3923 Ugly Windows
 ### 3923_ugly_windows.cpp 180K Memory 0Ms Time 1180B Code Length
+## 3924 Tornado
+### 3924_tornado.cpp 128K Memory 0Ms Time 2142B Code Length
