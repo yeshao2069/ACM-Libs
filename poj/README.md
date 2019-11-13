@@ -46,3 +46,5 @@
 ### 3925_minimal_ratio_tree.cpp 188K Memory 16Ms Time 1590B Code Length
 ## 3926 Parade
 ### 3926_parade.cpp 4232K Memory 313MS Time 2297B Code Length
+## 3927 Priest John's Busiest Day
+### 3927_priest_johns_busiest.cpp 3800K Memory 454MS Time 986B Code Length
