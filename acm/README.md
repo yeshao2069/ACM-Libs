@@ -32,3 +32,5 @@
 
 ## 2573 Bridge
 ### 2573_bridge.cpp 144K Memory 32Ms Time 984B Code Length
+## 3921 Destroying the bus stations
+### 3921_destroying_the_bus_stations.cpp 248K Memory 266Ms Time 1538B Code Length
