@@ -22,3 +22,5 @@
 ### 1009_edge_detection.cpp 100K Memory 0Ms Time 3942B Code Length
 ## 1010 STAMPS
 ### 1010_stamps.cpp 188K Memory 0Ms Time 4013B Code Length
+## 1011 Sticks
+### 1011_sticks.cpp 96K Memory 16Ms Time 2541B Code Length
