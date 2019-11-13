@@ -36,3 +36,5 @@
 ### 3921_destroying_the_bus_stations.cpp 248K Memory 266Ms Time 1538B Code Length
 ## 3922 A simple stone game
 ### 3922_a_simple_stone_game.cpp 5972K Memory 16Ms Time 649B Code Length
+## 3923 Ugly Windows
+### 3923_ugly_windows.cpp 180K Memory 0Ms Time 1180B Code Length
