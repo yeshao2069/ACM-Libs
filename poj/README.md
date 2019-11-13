@@ -44,3 +44,5 @@
 ### 3924_tornado.cpp 128K Memory 0Ms Time 2142B Code Length
 ## 3925 Minimal Ratio Tree
 ### 3925_minimal_ratio_tree.cpp 188K Memory 16Ms Time 1590B Code Length
+## 3926 Parade
+### 3926_parade.cpp 4232K Memory 313MS Time 2297B Code Length
