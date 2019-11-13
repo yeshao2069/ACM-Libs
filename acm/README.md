@@ -25,4 +25,6 @@
 ## 1011 Sticks
 ### 1011_sticks.cpp 96K Memory 16Ms Time 2541B Code Length
 ## 1012 Joseph
-### 1011_joseph.cpp 180K Memory 219Ms Time 773B Code Length
+### 1012_joseph.cpp 180K Memory 219Ms Time 773B Code Length
+## 1013 Counterfeit Dollar
+### 1013_counterfeit_dollar.cpp 100K Memory 0Ms Time 1588B Code Length
