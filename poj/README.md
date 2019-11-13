@@ -29,6 +29,8 @@
 ## 1013 Counterfeit Dollar
 ### 1013_counterfeit_dollar.cpp 100K Memory 0Ms Time 1588B Code Length
 
+## 1091 Flea
+### 1091_flea.cpp 116K Memory 16Ms Time 1685B Code Length
 
 ## 2573 Bridge
 ### 2573_bridge.cpp 144K Memory 32Ms Time 984B Code Length
