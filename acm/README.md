@@ -24,3 +24,5 @@
 ### 1010_stamps.cpp 188K Memory 0Ms Time 4013B Code Length
 ## 1011 Sticks
 ### 1011_sticks.cpp 96K Memory 16Ms Time 2541B Code Length
+## 1012 Joseph
+### 1011_joseph.cpp 180K Memory 219Ms Time 773B Code Length
