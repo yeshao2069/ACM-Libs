@@ -28,3 +28,7 @@
 ### 1012_joseph.cpp 180K Memory 219Ms Time 773B Code Length
 ## 1013 Counterfeit Dollar
 ### 1013_counterfeit_dollar.cpp 100K Memory 0Ms Time 1588B Code Length
+
+
+## 2573 Bridge
+### 2573_bridge.cpp 144K Memory 32Ms Time 984B Code Length
