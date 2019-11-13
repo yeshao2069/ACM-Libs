@@ -40,3 +40,5 @@
 ### 3923_ugly_windows.cpp 180K Memory 0Ms Time 1180B Code Length
 ## 3924 Tornado
 ### 3924_tornado.cpp 128K Memory 0Ms Time 2142B Code Length
+## 3925 Minimal Ratio Tree
+### 3925_minimal_ratio_tree.cpp 188K Memory 16Ms Time 1590B Code Length
