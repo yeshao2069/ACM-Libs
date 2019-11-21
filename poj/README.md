@@ -33,6 +33,8 @@
 ### 1050_to_the_max.cpp 196K Memory 16Ms Time 1002B Code Length
 ## 1051 P,MTHBGWB
 ### 1051_p_mthbgwb.cpp 276K Memory 0Ms Time 1585B Code Length
+## 1068 Parencodings
+### 1068_parencodings.cpp 152K Memory 0Ms Time 1603B Code Length
 ## 1091 Flea
 ### 1091_flea.cpp 116K Memory 16Ms Time 1685B Code Length
 
