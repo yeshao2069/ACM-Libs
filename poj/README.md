@@ -44,6 +44,9 @@
 ## 1095 Trees Made To Order
 ### 1095_trees_made_to_order.cpp 112K Memory 0Ms Time 1343B Code Length
 
+## 1105 S-Trees
+### 1105_s_trees.cpp 132K Memory 0Ms Time 572B Code Length
+
 ## 2573 Bridge
 ### 2573_bridge.cpp 144K Memory 32Ms Time 984B Code Length
 ## 3921 Destroying the bus stations
