@@ -74,6 +74,8 @@
 ### 3926_parade.cpp 4232K Memory 313MS Time 2297B Code Length
 ## 3927 Priest John's Busiest Day
 ### 3927_priest_johns_busiest.cpp 3800K Memory 454MS Time 986B Code Length
+## 3994 Probability One
+### 3994_probability_one.cpp 112K Memory 0MS Time 629B Code Length
 
 ## 4011 Automated Telephone Exchange
 ### 4011_automated_telephone_exchange.cpp 112K Memory 16MS Time 279B Code Length
