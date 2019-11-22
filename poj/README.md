@@ -29,6 +29,8 @@
 ## 1013 Counterfeit Dollar
 ### 1013_counterfeit_dollar.cpp 100K Memory 0Ms Time 1588B Code Length
 
+## 1045 Bode Plot
+### 1045_bode_plot.cpp 188K Memory 16Ms Time 269B Code Length
 ## 1050 To The Max
 ### 1050_to_the_max.cpp 196K Memory 16Ms Time 1002B Code Length
 ## 1051 P,MTHBGWB
