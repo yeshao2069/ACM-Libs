@@ -54,6 +54,8 @@
 ## 2573 Bridge
 ### 2573_bridge.cpp 144K Memory 32Ms Time 984B Code Length
 
+## 3907 Build Your Home
+### 3907_build_your_home.cpp 136K Memory 0Ms Time 620B Code Length
 ## 3910 GCD Determinant
 ### 3910_gcd_determinant.cpp 196K Memory 157Ms Time 469B Code Length
 ## 3921 Destroying the bus stations
