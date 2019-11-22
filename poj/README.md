@@ -37,6 +37,8 @@
 ### 1068_parencodings.cpp 152K Memory 0Ms Time 1603B Code Length
 ## 1091 Flea
 ### 1091_flea.cpp 116K Memory 16Ms Time 1685B Code Length
+## 1095 Trees Made To Order
+### 1095_trees_made_to_order.cpp 112K Memory 0Ms Time 1343B Code Length
 
 ## 2573 Bridge
 ### 2573_bridge.cpp 144K Memory 32Ms Time 984B Code Length
