@@ -58,6 +58,8 @@
 ### 3907_build_your_home.cpp 136K Memory 0Ms Time 620B Code Length
 ## 3910 GCD Determinant
 ### 3910_gcd_determinant.cpp 196K Memory 157Ms Time 469B Code Length
+## 3913 Gnome Sequencing
+### 3913_gnome_sequencing.cpp 188K Memory 0Ms Time 653B Code Length
 ## 3921 Destroying the bus stations
 ### 3921_destroying_the_bus_stations.cpp 248K Memory 266Ms Time 1538B Code Length
 ## 3922 A simple stone game
