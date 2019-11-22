@@ -35,6 +35,8 @@
 ### 1051_p_mthbgwb.cpp 276K Memory 0Ms Time 1585B Code Length
 ## 1068 Parencodings
 ### 1068_parencodings.cpp 152K Memory 0Ms Time 1603B Code Length
+## 1080 Human Gene Functions
+### 1080_human_gene_functions.cpp 244K Memory 0Ms Time 1594B Code Length
 ## 1091 Flea
 ### 1091_flea.cpp 116K Memory 16Ms Time 1685B Code Length
 ## 1095 Trees Made To Order
