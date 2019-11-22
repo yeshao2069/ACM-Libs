@@ -46,6 +46,8 @@
 
 ## 1105 S-Trees
 ### 1105_s_trees.cpp 132K Memory 0Ms Time 572B Code Length
+## 1163 The Triangle
+### 1163_the_triangle.cpp 236K Memory 16Ms Time 583B Code Length
 
 ## 2573 Bridge
 ### 2573_bridge.cpp 144K Memory 32Ms Time 984B Code Length
