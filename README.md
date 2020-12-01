@@ -35,19 +35,27 @@
 ##### [厦门大学ACM在线评测系统网址](http://acm.xmu.edu.cn/JudgeOnline/)[访问失败，系统升级]
 ##### [福建师范大学ACM在线评测系统网址](http://acm.fjnu.edu.cn/)[链接超时]
 ##### [华中科技大学ACM在线评测系统网址](http://acm.hust.edu.cn/JudgeOnline/)[链接超时]
-##### [华东师范大学ACM在线评测系统网址](http://acm.cs.ecnu.edu.cn/)[链接失败]
+##### [浙江工业大学ACM在线评测系统网址](http://acm.zjut.edu.cn/)[链接失败]
+##### [浙江师范大学ACM在线评测系统网址](http://acm.zjnu.cn/)[链接失败]
+##### [南京航空航天大学ACM在线评测系统网址](http://acm.nuaa.edu.cn)[链接失败]
+##### [西南科技大学ACM在线评测系统网址](http://acm.swust.edu.cn:8080/JudgeOnline/)[链接失败]
+##### [哈尔滨工程大学ACM在线评测系统网址](http://acm.hrbeu.edu.cn/)[链接失败]
+##### [华东理工大学ACM在线评测系统网址](http://acm.ecust.edu.cn/)[链接失败]
 
 
+## 国外评测系统
+##### [onlinejudge](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=0)
+##### [乌拉尔大学ACM在线评测系统网址(俄罗斯URAL)](http://acm.timus.ru/problemset.aspx)
+##### [EL Judge(俄罗斯MIPT)](http://acm.mipt.ru/judge/problems.pl)[链接失败]
+##### [ITMO UNIVERSITY](https://codeforces.com/problemset)
+##### [spoj(波兰 sphere online judge)](https://www.spoj.com/problems/classical/)
+##### [KRSU(吉尔吉斯斯坦)](http://www.olymp.krsu.edu.kg/GeneralProblemset.aspx)
+##### [USACO(美国)](http://www.usaco.org/index.php?page=feb19results)
+##### [萨拉托夫大学ACM在线评测系统网址](http://acm.sgu.ru/)[链接失败]
+##### [UVA(西班牙)(瓦拉杜利德)](http://acm.uva.es/)[链接失败]
 
-## onlinejudge https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=0
-## 乌拉尔大学ACM在线评测系统网址(俄罗斯URAL) http://acm.timus.ru/problemset.aspx
-## EL Judge(俄罗斯MIPT) http://acm.mipt.ru/judge/problems.pl
-## ITMO UNIVERSITY https://codeforces.com/problemset
-## spoj(波兰 sphere online judge) https://www.spoj.com/problems/classical/
-## KRSU(吉尔吉斯斯坦) http://www.olymp.krsu.edu.kg/GeneralProblemset.aspx
-## USACO(美国) http://www.usaco.org/index.php?page=feb19results
 
 
 ## 其他评测系统
-##### 牛客网OJ https://www.nowcoder.com/activity/oj
+##### [牛客网OJ](https://www.nowcoder.com/activity/oj)
 ##### [IT工作室](http://acm.zjit.org/contest.php)
