@@ -6,7 +6,7 @@
 ##### [山东理工大学ACM在线评测系统网址](https://acm.sdut.edu.cn/onlinejudge3/problems)
 ##### [浙江大学ACM在线评测系统网址](https://zoj.pintia.cn/problem-sets/91827364500/problems)
 ##### [天津大学ACM在线评测系统网址](http://acm.tju.edu.cn/toj/problem.html)[进入失败]
-##### [福州大学ACM在线评测系统网址](http://acm.fzu.edu.cn/list.php)[链接超时]
+##### [福州大学ACM在线评测系统网址](http://acm.fzu.edu.cn/list.php)
 ##### [中国科学技术大学ACM在线评测系统网址](http://acm.ustc.edu.cn/ustcoj/problemlist.php)
 ##### [哈尔滨工业大学ACM在线评测系统网址](http://acm.hit.edu.cn/problemset)
 ##### [哈尔滨理工大学ACM在线评测系统网址](http://acm.hrbust.edu.cn/index.php?m=ProblemSet&a=showProblemVolume)
